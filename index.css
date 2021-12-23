@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 20px;
+    background-color: red;
+}
+.kegelen{
+    text-align: center;
+}
+.carousel{
+    text-align: center;
+}
+
+
+
+
+.info{
+    flex: 50%;
+    padding: 5px;
+    text-align: left;
+    background-color: darkgoldenrod;
+    margin-right: 75%;   
+}
+
+
+.card1{
+    float: right;
+    padding: 10px;
+}
+.card2{
+    float: right;
+    padding: 10px;
+}
+.card3{
+    float: right;
+    padding: 10px;
+}
+footer{
+    padding-bottom: 0px;
+}
